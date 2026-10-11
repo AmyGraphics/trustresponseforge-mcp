@@ -35,3 +35,10 @@ Solana USDC:
 ```text
 8sDLX3okSV974wdjdeKhN9uWLZDr45DeGCJ28zgTLEdJ
 ```
+
+
+## Why this MCP is worth using
+
+Security question → control, evidence, owner, calibrated answer and approval status.
+
+This outcome is the product value; the tool count is only an implementation detail.
